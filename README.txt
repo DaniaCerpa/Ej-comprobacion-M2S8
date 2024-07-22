@@ -5,4 +5,4 @@ Sesión: 8
 Tarea tipo: Ejercicio de comprobación
 Repositorio Github: https://github.com/DaniaCerpa/Ej-comprobacion-M2S8.git
 Clonar repositorio: git clone https://github.com/DaniaCerpa/Ej-comprobacion-M2S8.git
-Git-hub Pages: 
+Git-hub Pages: https://daniacerpa.github.io/Ej-comprobacion-M2S8/
