@@ -3,6 +3,6 @@ Curso: BOTIC-SOFOF-23-30-13-0068 -DESARROLLO DE APLICACIONES FULL STACK PYTHON T
 Modulo: 2
 Sesión: 7
 Tarea tipo: Ejercicio de comprobación
-Repositorio Github: 
-Clonar repositorio: git clone 
-Git-hub Pages: 
+Repositorio Github: https://github.com/DaniaCerpa/Ej-comprobacion-M2S8.git
+Clonar repositorio: git clone https://github.com/DaniaCerpa/Ej-comprobacion-M2S8.git 
+Git-hub Pages: https://daniacerpa.github.io/Ej-comprobacion-M2S8/
